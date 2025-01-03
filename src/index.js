@@ -15,3 +15,4 @@ client.on('ready', (c) => {
 });
 
 client.login(process.env.TOKEN);
+;
