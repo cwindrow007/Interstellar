@@ -50,4 +50,5 @@ eagle.epf
 # file locks introduced since 7.x
 *.lck
 
-src/.env
+Bot Code/.env
+.env
