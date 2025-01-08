@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80b5b229-33e9-4ed3-b9c3-66b6e17f7b66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bot Code/Cogs/Welcome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot Code/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bot Code/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +206,7 @@
       <workItem from="1735875090631" duration="3068000" />
       <workItem from="1736127434433" duration="1621000" />
       <workItem from="1736130237992" duration="2722000" />
-      <workItem from="1736315092128" duration="1032000" />
+      <workItem from="1736315092128" duration="2646000" />
     </task>
     <servers />
   </component>
@@ -229,6 +229,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Interstellar$Main.coverage" NAME="Main Coverage Results" MODIFIED="1736132080489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bot Code" />
+    <SUITE FILE_PATH="coverage/Interstellar$Main.coverage" NAME="Main Coverage Results" MODIFIED="1736319150203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bot Code" />
   </component>
 </project>
