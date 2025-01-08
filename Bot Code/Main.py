@@ -19,7 +19,7 @@ bot = commands.Bot(command_prefix='/', intents=intents)
 
 @bot.event
 async def on_ready():
-    print('Logged in as {bot.user} (ID: {bot.user.id})')
+    print(f"Logged in as {bot.user} (ID: {bot.user.id})")
 
 # Error handling
 
